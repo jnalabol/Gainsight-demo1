@@ -1,2 +1,2 @@
 Hey!First day of the Gainsight training session
-it is all about git
+It is all about git and how to use it
