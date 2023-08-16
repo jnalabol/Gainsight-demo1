@@ -1,2 +1,3 @@
 Hey!First day of the Gainsight training session
 It is all about git and how to use it
+I am Jyoshna 
